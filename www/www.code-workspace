@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../От_2023.03.01_v0.58_v0.71_stable_server-20240128T104902Z-001/От_2023.03.01_v0.58_v0.71_stable_server/Скрипты/PyCopter"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "www"
+	}
+}
